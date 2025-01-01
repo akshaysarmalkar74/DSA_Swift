@@ -1,0 +1,31 @@
+# Swift Playgrounds
+*.xcworkspace/
+*.xcuserdata/
+*.xccheckout/
+*.xcscmblueprint/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/xcshareddata/
+
+# Derived Data
+DerivedData/
+build/
+Build/
+*.playground/Contents.swift
+*.playground/Timeline.xctimeline
+
+# Swift Packages
+.swiftpm/
+Package.resolved
+Packages/
+*.xcodeproj/
+*.xcworkspace/
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails for Playgrounds
+**/contents.xcplayground
+**/contents.xcplaygrounddata/
